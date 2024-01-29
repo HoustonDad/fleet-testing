@@ -4,7 +4,7 @@ helm:
   releaseName: ghost-blog
   chart: "ghost"
   repo: "https://charts.bitnami.com/bitnami"
-  version: "latest"
+  version: "19.8.3"
   force: true
   timeoutSeconds: 0
   values:
